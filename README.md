@@ -8,6 +8,5 @@ I'm an aspiring software developer who mainly works with Javascript and node.js.
 - 🔬 Testing : Jest, Supertest.
 
 ## 🏗️ What am I currently working on?
-- Making my portfolio work on different screen sizes.
 - Adding more endpoints to my api.
 - Fixing the vote system on my app and improving the user experience.
